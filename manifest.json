@@ -1,0 +1,10 @@
+{
+	"id": "limitless-lifelogs",
+	"name": "Limitless Lifelogs & Chats",
+	"version": "1.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync your Limitless AI lifelog entries and chat conversations",
+	"author": "Maclean Dunkin",
+	"authorUrl": "https://github.com/Maclean-D",
+	"isDesktopOnly": false
+}
