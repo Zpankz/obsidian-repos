@@ -1,0 +1,23 @@
+.DS_Store
+
+# NPM
+node_modules/
+
+# Dev
+dev/
+dev_firefox/
+dev_safari/
+
+# Prod
+dist/
+dist_firefox/
+dist_safari/
+builds/
+assets/shared
+
+# Xcode
+*.xcuserstate
+
+.cursorrules
+.env
+context/
